@@ -11,7 +11,7 @@ excerpt: "Systems Biology • Multi-Omics • Clinical Proteomics"
 
 # Welcome to Dr. Nipun Lab
 
-We are a translational research group focused on understanding liver diseases
+We are a translational research group focused on understanding Alcohol associated liver Diseases (ALD), Acute on chronic liver failure (ACLF) and infections 
 through **integrated multi-omics, causal inference, systems biology, and clinical proteomics**.
 
 **Our primary focus areas include:**
