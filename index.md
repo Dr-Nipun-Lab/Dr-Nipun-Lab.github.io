@@ -14,10 +14,12 @@ excerpt: "Systems Biology • Multi-Omics • Clinical Proteomics"
 We are a translational research group focused on understanding liver diseases
 through **integrated multi-omics, causal inference, systems biology, and clinical proteomics**.
 
-- • Transcriptomics & Proteomics  
-- • Longitudinal multi-omics integration  
-- • Causal inference (DoWhy, CausalML, bnlearn, pgmpy)  
-- • Microbial & metaproteomics  
-- • Clinical prediction modeling  
+**Our primary focus areas include:**
+
+- Transcriptomics & Proteomics  
+- Longitudinal multi-omics integration (TimeOmics, MEFISTO)  
+- Causal inference (DoWhy, pgmpy, bnlearn, CausalML)  
+- Microbial & metaproteomics  
+- Clinical prediction modeling  
 
 Explore our **Members**, **Research**, **Publications**, and **Tools** using the top menu.
