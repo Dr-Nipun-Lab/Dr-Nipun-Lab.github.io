@@ -18,6 +18,8 @@ email: drnipun29j@gmail.com, rohitnadda@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A translational research lab integrating multi-omics, causal inference,
   microbial proteomics, and computational biology to understand liver conditions.
+url: "https://dr-nipun-lab.github.io"
+repository: "Dr-Nipun-Lab/Dr-Nipun-Lab.github.io"
 twitter_username: username
 github_username: Dr-Nipun-Lab
 minimal_mistakes_skin: default
