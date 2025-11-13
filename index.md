@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/lab_banner.jpg
-excerpt: "Systems Biology • Multi-Omics • Clinical Proteomics"
+excerpt: " Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-Omics • Clinical Proteomics • Bioinformatics • AI/ML"
 ---
 
 # Welcome to Dr. Nipun Lab
