@@ -58,8 +58,9 @@ plugins:
 
 author:
   name   : "Dr. Nipun Lab"
-  avatar : "/assets/images/lab_logo.png"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Multi-omics, systems biology, clinical proteomics, causal inference."
+  email: drnipun29j@gmail.com, rohitnadda@gmail.com
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
