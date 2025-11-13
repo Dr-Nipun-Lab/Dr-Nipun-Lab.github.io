@@ -16,10 +16,11 @@ through **integrated multi-omics, causal inference, systems biology, and clinica
 
 **Our primary focus areas include:**
 
-- Transcriptomics & Proteomics  
-- Longitudinal multi-omics integration (TimeOmics, MEFISTO)  
-- Causal inference (DoWhy, pgmpy, bnlearn, CausalML)  
-- Microbial & metaproteomics  
+- Multiomics (Proteomics, Transcriptomics, Genomics)  
+- Multi-omics integration
+- Trajectory analysis
+- Causal inference  
+- Microbial diversity & metaproteomics 
 - Clinical prediction modeling  
 
 Explore our **Members**, **Research**, **Publications**, and **Tools** using the top menu.
