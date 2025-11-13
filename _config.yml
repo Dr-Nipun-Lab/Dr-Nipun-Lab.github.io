@@ -85,7 +85,21 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: /about/
+  - title: "Members"
+    url: /members/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Tools"
+    url: /tools/
+  - title: "News"
+    url: /news/
 defaults:
   # _posts
   - scope:
