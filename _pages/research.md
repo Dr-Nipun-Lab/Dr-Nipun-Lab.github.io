@@ -4,19 +4,27 @@ permalink: /research/
 layout: single
 ---
 
-## Our Research Focus
+## Our Research Focuses on 
 
-### 1. Multi-omics integration  
-MOLI, TimeOmics, MEFISTO, WGCNA, Bayesian networks.
+### Clinical Proteomics  
+We apply high-resolution mass spectrometry to study circulating host and microbial proteins in patients with acute and chronic liver diseases. Our research aims to identify dynamic protein biomarkers—spanning both host and meta-proteomic signals—that reflect inflammation, immune dysfunction, organ failure, and mortality risk. These protein signatures are evaluated for their clinical utility and mechanistic relevance.
 
-### 2. Causal inference  
-DoWhy, CausalML, bnlearn, pgmpy, temporal causal discovery.
+---
 
-### 3. Clinical proteomics  
-Identification of circulating biomarkers including fungal, bacterial, and host proteins.
+### Multi-Omics Integration  
+We integrate transcriptomics, proteomics, and clinical datasets to gain systems-level insights into disease biology. Using methods such as MOLI, WGCNA, Bayesian networks, MEFISTO, and TimeOmics, we identify co-regulated gene–protein modules, temporal patterns, and cross-omic networks associated with disease severity, progression, and patient outcomes.
 
-### 4. Microbial & metaproteomics  
-Decoding interactions driving immune dysregulation in acute liver conditions.
+---
 
-### 5. Computational method development  
-Pipelines for QC, integration, causal analysis, and biomarker discovery.
+### Causal Inference  
+Association alone is not enough—our lab employs causal modeling frameworks including DoWhy, CausalML, bnlearn, and pgmpy to infer directional relationships among genes, proteins, pathways, and clinical phenotypes. These models help uncover drivers of disease progression and allow mechanistically guided biomarker discovery.
+
+---
+
+### Microbial & Metaproteomics  
+We characterize microbial peptides and proteins circulating in patient plasma to understand how bacteria and fungi influence host immunity and organ dysfunction. By integrating microbial signals with host transcriptomic and proteomic data, we investigate pathogen–host interactions that contribute to systemic inflammation, immune paralysis, and acute liver decompensation.
+
+---
+
+### Computational Method Development  
+Our lab develops robust, reproducible computational workflows for multi-omics data processing and analysis. We build pipelines for quality control, normalization, integration, causal inference, module detection, and biomarker prioritization in R and Python. These tools support both internal research and collaborative projects across clinical and computational teams.
