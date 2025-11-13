@@ -5,6 +5,6 @@ layout: single
 ---
 
 ## Principal Investigator
-**Dr. Nipun**  
+**Dr. Nipun Verma**  
 *Additional professor, Department of Hepatology, PGIMER*  
 Research interests: ACLF, OMICS, liver disease biology.
