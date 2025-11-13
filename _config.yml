@@ -103,18 +103,20 @@ nav:
     url: /tools/
   - title: "News"
     url: /news/
+
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
