@@ -8,7 +8,7 @@ layout: single
 
 We are a systems biology and multi-omics research group focused on understanding liver diseases through:
 
-- Multi-OMICS
+- Multi-OMICS (Genomics, Transcriptomics, Proteomics)
 - Multi-omics integration
 - Causal inference
 - Microbial and metaproteomic profiling
