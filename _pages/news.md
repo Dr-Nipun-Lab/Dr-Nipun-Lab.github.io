@@ -5,4 +5,4 @@ layout: single
 ---
 
 ### Lab News & Updates
-We will post updates, achievements, new papers, and openings here.
+We will post updates, achievements and openings here.
