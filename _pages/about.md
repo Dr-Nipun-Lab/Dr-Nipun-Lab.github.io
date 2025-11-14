@@ -4,7 +4,6 @@ permalink: /about/
 layout: single
 ---
 
-# About Dr. Nipun Lab
 
 The **Dr. Nipun Lab** is a translational research group focused on decoding the biology of **acute hepatic decompensation, alcohol-associated liver diseases, and acute-on-chronic liver failure (ACLF)** through multi-omics and computational science.
 
