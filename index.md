@@ -12,15 +12,17 @@ excerpt: " Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-
 # Welcome to Dr. Nipun Lab
 
 We are a translational research group focused on understanding Alcohol associated liver Diseases (ALD), Acute on chronic liver failure (ACLF) and infections 
-through **integrated multi-omics, causal inference, systems biology, and clinical proteomics**.
+through **Multi-omics, Bioinformatics, Systems biology, Clinical proteomics and Cognitive computing**.
 
 **Our primary focus areas include:**
 
 - Multiomics (Proteomics, Transcriptomics, Genomics)  
 - Multi-omics integration
 - Trajectory analysis
-- Causal inference  
-- Microbial diversity & metaproteomics 
-- Clinical prediction modeling  
+- Biomarker discovery pipeline and pathway analysis 
+- Microbial diversity & metaproteomics analysis
+- Molecular and experimental hepatology
+- Clinical prediction modeling
+- AI/ML  
 
 Explore our **Members**, **Research**, **Publications**, and **Tools** using the top menu.
