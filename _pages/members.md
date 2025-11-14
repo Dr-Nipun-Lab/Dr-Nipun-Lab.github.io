@@ -14,10 +14,10 @@ layout: single
 
 **Dr. Nipun Verma**  
 *Additional Professor*  
-**Department of Hepatology, PGIMER**
+**Department of Hepatology, PGIMER, Chandigarh**
 
 **Research Interests:**  
-Acute decompensation of cirrhosis and ACLF, multi-omics, biomarker discovery, point-of-care diagnostics, biostatistics, artificial intelligence and machine learning.
+Acute decompensation of cirrhosis and ACLF, Multi-omics, Biomarker discovery, Point-of-care diagnostics, Biostatistics, Artificial intelligence and machine learning.
 
 👉 **[Download CV (PDF)](/assets/files/Dr_Nipun_CV.pdf)**
 
@@ -27,73 +27,66 @@ Acute decompensation of cirrhosis and ACLF, multi-omics, biomarker discovery, po
 
 ## Ph.D. Researchers / Project Scientists
 
-### **Pratibha Garg**  
 <img src="/assets/images/members/pratibha_garg.jpg" alt="Pratibha Garg" width="160" />
-
+### **Pratibha Garg**  
 **Project Research Scientist I**  
-Department of Hepatology, PGIMER  
+Department of Hepatology, PGIMER, Chandigarh  
 
 **Expertise:**  
-Clinical proteomics, biomarker discovery, biostatistics, molecular biology, immunology.
+Clinical proteomics, Biomarker discovery, Biostatistics, Molecular biology, Immunology.
 
 ---
 
 ## Post-Ph.D. Scientists
 
-### **Dr. Kumari Priyanka**  
 <img src="/assets/images/members/kumari_priyanka.jpg" alt="Dr. Kumari Priyanka" width="160" />
-
+### **Dr. Kumari Priyanka**  
 **Project Research Scientist II**  
-Department of Hepatology, PGIMER  
+Department of Hepatology, PGIMER, Chandigarh 
 
 **Expertise:**  
-Molecular biology, immunology.
+Molecular biology, Immunology.
 
 ---
 
-### **Dr. Parminder Kaur**  
 <img src="/assets/images/members/parminder_kaur.jpg" alt="Dr. Parminder Kaur" width="160" />
-
+### **Dr. Parminder Kaur**  
 **Project Research Scientist I**  
-Department of Hepatology, PGIMER  
+Department of Hepatology, PGIMER, Chandigarh 
 
 **Expertise:**  
-Randomized controlled trials, molecular biology, immunology.
+Randomized controlled trials, Molecular biology, Immunology.
 
 ---
 
-### **Dr. Rohit Nadda**  
 <img src="/assets/images/members/rohit_nadda.jpg" alt="Dr. Rohit Nadda" width="160" />
-
+### **Dr. Rohit Nadda**  
 **Project Fellow**  
-Department of Hepatology, PGIMER  
+Department of Hepatology, PGIMER, Chandigarh  
 
 **Expertise:**  
-Multi-omics, bioinformatics, computational biology, machine learning & AI.
+Multi-omics, Bioinformatics, Computational biology, Machine learning & AI.
 
 ---
 
 # Ex-Lab Members
 
-### **Saloni Munjal**  
 <img src="/assets/images/members/saloni_munjal.jpg" alt="Saloni Munjal" width="160" />
-
+### **Saloni Munjal**  
 **Former Research Fellow**  
 Currently: **Ph.D. Fellow, CCMB Delhi**
 
 ---
 
-### **Aishani Wadhawan**  
 <img src="/assets/images/members/aishani_wadhawan.jpg" alt="Aishani Wadhawan" width="160" />
-
+### **Aishani Wadhawan**  
 **Former Research Fellow**  
 Currently: **Ph.D. Scholar, CSIO Chandigarh**
 
 ---
 
-### **Samoni Ralmilay**  
 <img src="/assets/images/members/samoni_ralmilay.jpg" alt="Samoni Ralmilay" width="160" />
-
+### **Samoni Ralmilay**  
 **Former Research Fellow**  
 Currently: **Project Research Scientist I**, Department of Radiology, PGIMER
 
