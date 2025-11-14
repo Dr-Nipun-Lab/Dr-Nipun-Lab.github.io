@@ -11,7 +11,7 @@ excerpt: " Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-
 
 # Welcome to Dr. Nipun Lab
 
-We are a translational research group focused on understanding Alcohol associated liver Diseases (ALD), Acute on chronic liver failure (ACLF) and infections 
+We are a translational research group in the **Department of Hepatology at Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh** focused on understanding Alcohol associated liver Diseases (ALD), Acute on chronic liver failure (ACLF) and infections 
 through **Multi-omics, Bioinformatics, Systems biology, Clinical proteomics and Cognitive computing**.
 
 **Our primary focus areas include:**
