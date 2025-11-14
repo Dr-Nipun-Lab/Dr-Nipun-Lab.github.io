@@ -1,0 +1,48 @@
+/* ---- MEMBER CARDS ---- */
+
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 25px;
+  margin-top: 30px;
+}
+
+.member-card {
+  background: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.member-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+}
+
+.member-photo {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+  border: 4px solid #e4e4e4;
+}
+
+.member-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.member-role {
+  font-size: 0.95em;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.member-expertise {
+  font-size: 0.85em;
+  color: #333;
+}
