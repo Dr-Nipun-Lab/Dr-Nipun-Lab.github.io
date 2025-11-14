@@ -10,16 +10,22 @@ layout: single
 
 ## Principal Investigator
 
-<img src="/assets/images/members/nipun_verma.jpg" alt="Dr. Nipun Verma" width="200" />
+<div class="member-grid">
+  <div class="member-card">
+    <img src="/assets/images/members/nipun_verma.jpg" alt="Dr. Nipun Verma" class="member-photo" />
 
-**Dr. Nipun Verma**  
-*Additional Professor*  
-**Department of Hepatology, PGIMER, Chandigarh**
+   <div class="member-name">Dr. Nipun Verma</div>
+   <div class="member-role">Additional Professor, Department of Hepatology, PGIMER</div>
 
-**Research Interests:**  
-Acute decompensation of cirrhosis and ACLF, Multi-omics, Biomarker discovery, Point-of-care diagnostics, Biostatistics, Artificial intelligence and machine learning.
+   <div class="member-expertise">
+      Acute decompensation of cirrhosis & ACLF, Multi-omics, Biomarker discovery, 
+      Point-of-care diagnostics, Biostatistics, AI/ML.
+   </div>
 
-👉 **[Download CV (PDF)](/assets/files/Dr_Nipun_CV.pdf)**
+   <br>
+   <a href="/assets/files/Dr_Nipun_CV.pdf" class="btn btn--primary">Download CV</a>
+  </div>
+</div>
 
 ---
 
@@ -27,71 +33,85 @@ Acute decompensation of cirrhosis and ACLF, Multi-omics, Biomarker discovery, Po
 
 ## Ph.D. Researchers / Project Scientists
 
-<img src="/assets/images/members/pratibha_garg.jpg" alt="Pratibha Garg" width="160" />
-### **Pratibha Garg**  
-**Project Research Scientist I**  
-Department of Hepatology, PGIMER, Chandigarh  
+<div class="member-grid">
 
-**Expertise:**  
-Clinical proteomics, Biomarker discovery, Biostatistics, Molecular biology, Immunology.
+  <div class="member-card">
+    <img src="/assets/images/members/pratibha_garg.jpg" class="member-photo" />
+    <div class="member-name">Pratibha Garg</div>
+    <div class="member-role">Project Research Scientist I</div>
+    <div class="member-expertise">
+      Clinical proteomics, Biomarker discovery, Biostatistics, Molecular biology, Immunology.
+    </div>
+  </div>
+
+</div>
 
 ---
 
 ## Post-Ph.D. Scientists
 
-<img src="/assets/images/members/kumari_priyanka.jpg" alt="Dr. Kumari Priyanka" width="160" />
-### **Dr. Kumari Priyanka**  
-**Project Research Scientist II**  
-Department of Hepatology, PGIMER, Chandigarh 
+<div class="member-grid">
 
-**Expertise:**  
-Molecular biology, Immunology.
+  <div class="member-card">
+    <img src="/assets/images/members/kumari_priyanka.jpg" class="member-photo" />
+    <div class="member-name">Dr. Kumari Priyanka</div>
+    <div class="member-role">Project Research Scientist II</div>
+    <div class="member-expertise">
+      Molecular biology, Immunology.
+    </div>
+  </div>
 
----
+  <div class="member-card">
+    <img src="/assets/images/members/parminder_kaur.jpg" class="member-photo" />
+    <div class="member-name">Dr. Parminder Kaur</div>
+    <div class="member-role">Project Research Scientist I</div>
+    <div class="member-expertise">
+      Randomized controlled trials, Molecular biology, Immunology.
+    </div>
+  </div>
 
-<img src="/assets/images/members/parminder_kaur.jpg" alt="Dr. Parminder Kaur" width="160" />
-### **Dr. Parminder Kaur**  
-**Project Research Scientist I**  
-Department of Hepatology, PGIMER, Chandigarh 
+  <div class="member-card">
+    <img src="/assets/images/members/rohit_nadda.jpg" class="member-photo" />
+    <div class="member-name">Dr. Rohit Nadda</div>
+    <div class="member-role">Project Fellow</div>
+    <div class="member-expertise">
+      Multi-omics, Bioinformatics, Computational biology, Machine learning & AI.
+    </div>
+  </div>
 
-**Expertise:**  
-Randomized controlled trials, Molecular biology, Immunology.
-
----
-
-<img src="/assets/images/members/rohit_nadda.jpg" alt="Dr. Rohit Nadda" width="160" />
-### **Dr. Rohit Nadda**  
-**Project Fellow**  
-Department of Hepatology, PGIMER, Chandigarh  
-
-**Expertise:**  
-Multi-omics, Bioinformatics, Computational biology, Machine learning & AI.
+</div>
 
 ---
 
 # Ex-Lab Members
 
-<img src="/assets/images/members/saloni_munjal.jpg" alt="Saloni Munjal" width="160" />
-### **Saloni Munjal**  
-**Former Research Fellow**  
-Currently: **Ph.D. Fellow, CCMB Delhi**
+<div class="member-grid">
 
----
+  <div class="member-card">
+    <img src="/assets/images/members/saloni_munjal.jpg" class="member-photo" />
+    <div class="member-name">Saloni Munjal</div>
+    <div class="member-role">Former Research Fellow</div>
+    <div class="member-expertise">
+      Currently Ph.D. Fellow, CCMB Delhi.
+    </div>
+  </div>
 
-<img src="/assets/images/members/aishani_wadhawan.jpg" alt="Aishani Wadhawan" width="160" />
-### **Aishani Wadhawan**  
-**Former Research Fellow**  
-Currently: **Ph.D. Scholar, CSIO Chandigarh**
+  <div class="member-card">
+    <img src="/assets/images/members/aishani_wadhawan.jpg" class="member-photo" />
+    <div class="member-name">Aishani Wadhawan</div>
+    <div class="member-role">Former Research Fellow</div>
+    <div class="member-expertise">
+      Currently Ph.D. Scholar, CSIO Chandigarh.
+    </div>
+  </div>
 
----
+  <div class="member-card">
+    <img src="/assets/images/members/samoni_ralmilay.jpg" class="member-photo" />
+    <div class="member-name">Samoni Ralmilay</div>
+    <div class="member-role">Former Research Fellow</div>
+    <div class="member-expertise">
+      Currently Project Research Scientist I, Department of Radiology, PGIMER.
+    </div>
+  </div>
 
-<img src="/assets/images/members/samoni_ralmilay.jpg" alt="Samoni Ralmilay" width="160" />
-### **Samoni Ralmilay**  
-**Former Research Fellow**  
-Currently: **Project Research Scientist I**, Department of Radiology, PGIMER
-
----
-
-# Joining the Lab
-For research positions, collaborations, or project opportunities, please reach out to the PI or visit the **Contact page** (coming soon).
-
+</div>
