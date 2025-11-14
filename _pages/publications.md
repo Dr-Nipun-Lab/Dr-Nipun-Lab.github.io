@@ -4,8 +4,7 @@ permalink: /publications/
 layout: single
 ---
 
-We list our peer-reviewed articles, clinical research papers, datasets, and collaborative works here.  
-Entries are organized by publication year.
+We list our peer-reviewed articles, clinical research papers, datasets, and collaborative works here.
 
 ---
 
