@@ -7,22 +7,22 @@ layout: single
 ## Our Research Focuses on 
 
 ### Clinical Proteomics  
-We apply high-resolution mass spectrometry to study circulating host and microbial proteins in patients with acute and chronic liver diseases. Our research aims to identify dynamic protein biomarkers—spanning both host and meta-proteomic signals—that reflect inflammation, immune dysfunction, organ failure, and mortality risk. These protein signatures are evaluated for their clinical utility and mechanistic relevance.
+We apply high-resolution mass spectrometry to study circulating host and microbial proteins in patients with acute and chronic liver diseases. Our research aims to identify dynamic protein biomarkers spanning both host and meta-proteomic signals that reflect inflammation, immune dysfunction, organ failure, and mortality risk. These protein signatures are evaluated for their clinical utility and mechanistic relevance.
 
 ---
 
-### Multi-Omics Integration  
-We integrate transcriptomics, proteomics, and clinical datasets to gain systems-level insights into disease biology. Using methods such as MOLI, WGCNA, Bayesian networks, MEFISTO, and TimeOmics, we identify co-regulated gene–protein modules, temporal patterns, and cross-omic networks associated with disease severity, progression, and patient outcomes.
+### Multi-Omics Integration and Trajectory analysis 
+We integrate transcriptomics, proteomics, and clinical datasets to gain systems-level insights into disease biology. Using methods such as early & late integration, WGCNA and Joint modelling we identify co-regulated gene–protein modules, Hub gene/proteins, temporal patterns, and cross-omic networks associated with disease severity, progression, and patient outcomes.
 
 ---
 
 ### Causal Inference  
-Association alone is not enough—our lab employs causal modeling frameworks including DoWhy, CausalML, bnlearn, and pgmpy to infer directional relationships among genes, proteins, pathways, and clinical phenotypes. These models help uncover drivers of disease progression and allow mechanistically guided biomarker discovery.
+Association alone is not enough; our lab employs causal modeling frameworks including Bayesian causal networks and Grain to infer directional relationships among genes, proteins, pathways, and clinical phenotypes. These models help uncover drivers of disease progression and allow mechanistically guided biomarker discovery.
 
 ---
 
-### Microbial & Metaproteomics  
-We characterize microbial peptides and proteins circulating in patient plasma to understand how bacteria and fungi influence host immunity and organ dysfunction. By integrating microbial signals with host transcriptomic and proteomic data, we investigate pathogen–host interactions that contribute to systemic inflammation, immune paralysis, and acute liver decompensation.
+### Microbial Diversity & Metaproteomics
+We characterize microbial peptides and proteins circulating in patient plasma to understand how microbiota influence host immunity and organ dysfunction. By integrating microbial signals (Diversity and proteomics) with host transcriptomic and proteomic data, we investigate pathogen–host interactions that contribute to systemic inflammation, immune paralysis, and acute liver decompensation.
 
 ---
 
