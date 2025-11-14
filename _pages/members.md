@@ -3,7 +3,7 @@ title: "Lab Members"
 permalink: /members/
 layout: single
 ---
-#
+
 ---
 
 ## Principal Investigator
