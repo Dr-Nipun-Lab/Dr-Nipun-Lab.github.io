@@ -2,9 +2,9 @@
 title: "Publications"
 permalink: /publications/
 layout: single
+classes: wide
 ---
 
-# Publications
 
 Below is the complete list of publications from Dr. Nipun Lab.  
 Click anywhere in the table to open the Google Drive folder containing all PDF files.
