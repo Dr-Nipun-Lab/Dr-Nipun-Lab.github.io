@@ -5,6 +5,9 @@ layout: single
 classes: wide
 ---
 
+<div class="about-wrapper">
+
+<div class="about-main">
 
 The **Dr. Nipun Lab** is a translational research group focused on decoding the biology of **acute hepatic decompensation, alcohol-associated liver diseases, and acute-on-chronic liver failure (ACLF)** through multi-omics and computational science.
 
@@ -35,96 +38,107 @@ We characterize microbial peptides and proteins circulating in patient plasma to
 ### Computational Method Development  
 Our lab develops robust, reproducible computational workflows for multi-omics data processing and analysis. We build pipelines for quality control, normalization, integration, causal inference, module detection, and biomarker prioritization in R and Python. These tools support both internal research and collaborative projects across clinical and computational teams.
 
+</div> <!-- end about-main -->
 ---
 
-# ⭐ Achievements
+<!-- ⭐ RIGHT SIDEBAR ACHIEVEMENTS ⭐ -->
+<div class="about-sidebar">
 
-Below are some highlights from our scientific, academic, and clinical research activities.
+<h3 style="text-align:center; margin-top:0;">Achievements</h3>
 
-<div class="achievements-container">
-  <div class="achievements-scroll" id="achievementsScroll">
-    
-    <!-- Add as many items as you want -->
-    <div class="achievement-item">
-      <img src="/assets/images/achievements/award1.jpg" alt="Achievement 1">
-      <p>Best Research Award at EASL 2025</p>
-    </div>
+<div class="achievements-vertical" id="achievementsVertical">
 
-    <div class="achievement-item">
-      <img src="/assets/images/achievements/award2.jpg" alt="Achievement 2">
-      <p>Best Poster and oral presentation at INASL 2025</p>
-    </div>
-
-    <div class="achievement-item">
-      <img src="/assets/images/achievements/award3.jpg" alt="Achievement 3">
-      <p>Best oral presentation at APT 2025</p>
-    </div>
-
-    <!-- Duplicate for smooth infinite scroll -->
-    <div class="achievement-item">
-      <img src="/assets/images/achievements/award1.jpg" alt="Achievement 1">
-      <p>Best Research Award at EASL 2025</p>
-    </div>
-    <div class="achievement-item">
-      <img src="/assets/images/achievements/award2.jpg" alt="Achievement 2">
-      <p>Best Poster and oral presentation at INASL 2025</p>
-    </div>
-
+  <div class="ach-item">
+    <img src="/assets/images/achievements/award1.jpg">
+    <p>Dr. Parminder received best Research Award EASL 2025</p>
   </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/award2.jpg">
+    <p>Dr. Nipun, Dr. Parminder and Pratibha received best Oral presentation and best poster awards in INASL 2025</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/award3.jpg">
+    <p>Pratibha received best oral presentation award at APT 2025</p>
+  </div>
+
+
+  <!-- Duplicate for smooth loop -->
+  <div class="ach-item">
+    <img src="/assets/images/achievements/award1.jpg">
+    <p>Dr. Parminder received best Research Award EASL 2025</p>
+  </div>
+
 </div>
 
----
+</div> <!-- end about-sidebar -->
+
+</div> <!-- end about-wrapper -->
+
+
 <style>
-/* Achievements Panel Styling */
-.achievements-container {
-  width: 100%;
-  overflow: hidden;
-  position: relative;
-  margin: 20px 0;
-  border-radius: 10px;
-  border: 1px solid #ddd;
-  background: #fafafa;
-}
-
-.achievements-scroll {
+/* Two-column layout: main content + right sidebar */
+.about-wrapper {
   display: flex;
+  align-items: flex-start;
   gap: 20px;
-  padding: 20px;
-  animation: scrollLeft 25s linear infinite;
 }
 
-.achievement-item {
-  min-width: 220px;
-  text-align: center;
+/* Main content takes more space */
+.about-main {
+  flex: 3;
 }
 
-.achievement-item img {
-  width: 200px;
-  height: 130px;
+/* Right achievements sidebar */
+.about-sidebar {
+  flex: 1;
+  max-width: 260px;
+  border-left: 1px solid #ddd;
+  padding-left: 15px;
+  height: 600px;
+  overflow: hidden;
+  position: sticky;
+  top: 20px;
+}
+
+/* Vertical auto-scrolling content */
+.achievements-vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  animation: scrollDown 25s linear infinite;
+}
+
+.ach-item img {
+  width: 100%;
+  height: 140px;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid #ccc;
 }
 
-.achievement-item p {
-  font-size: 0.9rem;
-  margin-top: 8px;
-  font-weight: 500;
+.ach-item p {
+  text-align: center;
+  font-size: 0.85rem;
+  margin-top: 6px;
 }
 
-/* Auto-scroll Animation */
-@keyframes scrollLeft {
-  from { transform: translateX(0); }
-  to { transform: translateX(-50%); }
+/* Vertical auto-scroll keyframes */
+@keyframes scrollDown {
+  from { transform: translateY(0); }
+  to { transform: translateY(-50%); }
 }
 </style>
 
 <script>
-const scrollBox = document.getElementById("achievementsScroll");
-scrollBox.addEventListener("mouseover", () => {
-  scrollBox.style.animationPlayState = "paused";
+const vscroll = document.getElementById("achievementsVertical");
+
+vscroll.addEventListener("mouseover", () => {
+  vscroll.style.animationPlayState = "paused";
 });
-scrollBox.addEventListener("mouseout", () => {
-  scrollBox.style.animationPlayState = "running";
+
+vscroll.addEventListener("mouseout", () => {
+  vscroll.style.animationPlayState = "running";
 });
 </script>
