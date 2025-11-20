@@ -132,45 +132,6 @@ layout: single
 
 <style>
 
-/* Cards container */
-.member-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 25px;
-}
-
-/* Individual card */
-.member-card {
-  position: relative;
-  width: 260px;
-  padding: 15px;
-  border: 1px solid #e1e1e1;
-  border-radius: 10px;
-  background: #fafafa;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  transition: 0.2s ease-in-out;
-}
-
-.member-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
-}
-
-/* Photo */
-.member-photo {
-  width: 100%;
-  height: 260px;
-  object-fit: cover;
-  border-radius: 8px;
-}
-
-/* Name */
-.member-name {
-  font-size: 1.1rem;
-  font-weight: 700;
-  margin-top: 10px;
-}
-
 /* Icons */
 .icon-links {
   position: absolute;
