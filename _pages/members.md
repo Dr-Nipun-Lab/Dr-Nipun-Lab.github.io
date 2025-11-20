@@ -34,6 +34,10 @@ layout: single
 <div class="member-grid">
 
   <div class="member-card">
+    <div class="icon-links">
+      <a href="https://www.linkedin.com/in/pratibha-garg-35060717b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.researchgate.net/pratibha" target="_blank"><i class="fab fa-researchgate"></i></a>
+    </div>
     <img src="/assets/images/members/pratibha_garg.jpg" class="member-photo" />
     <div class="member-name">Pratibha Garg</div>
     <div class="member-role"><em>Project Research Scientist I</em></div>
@@ -51,6 +55,10 @@ layout: single
 <div class="member-grid">
 
   <div class="member-card">
+    <div class="icon-links">
+      <a href="https://www.linkedin.com/in/kumari-priyanka-negi-7108577b/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.researchgate.net/profile/Kumari-Priyanka-9?ev=hdr_xprf" target="_blank"><i class="fab fa-researchgate"></i></a>
+    </div>
     <img src="/assets/images/members/kumari_priyanka.jpg" class="member-photo" />
     <div class="member-name">Dr. Kumari Priyanka</div>
     <div class="member-role"><em>Project Research Scientist II</em></div>
@@ -60,6 +68,10 @@ layout: single
   </div>
 
   <div class="member-card">
+    <div class="icon-links">
+      <a href="https://www.linkedin.com/in/parminder-kaur-872441b5/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.researchgate.net/profile/Parminder-Kaur-76?ev=hdr_xprf" target="_blank"><i class="fab fa-researchgate"></i></a>
+    </div>
     <img src="/assets/images/members/parminder_kaur.jpg" class="member-photo" />
     <div class="member-name">Dr. Parminder Kaur</div>
     <div class="member-role"><em>Project Research Scientist I</em></div>
@@ -69,6 +81,10 @@ layout: single
   </div>
 
   <div class="member-card">
+    <div class="icon-links">
+      <a href="https://www.linkedin.com/pratibha" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.researchgate.net/pratibha" target="_blank"><i class="fab fa-researchgate"></i></a>
+    </div>
     <img src="/assets/images/members/rohit_nadda.jpg" class="member-photo" />
     <div class="member-name">Dr. Rohit Nadda</div>
     <div class="member-role"><em>Project Fellow</em></div>
@@ -113,3 +129,71 @@ layout: single
   </div>
 
 </div>
+
+<style>
+
+/* Cards container */
+.member-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+/* Individual card */
+.member-card {
+  position: relative;
+  width: 260px;
+  padding: 15px;
+  border: 1px solid #e1e1e1;
+  border-radius: 10px;
+  background: #fafafa;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  transition: 0.2s ease-in-out;
+}
+
+.member-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+}
+
+/* Photo */
+.member-photo {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* Name */
+.member-name {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+/* Icons */
+.icon-links {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  display: flex;
+  gap: 10px;
+  z-index: 10;
+}
+
+.icon-links a {
+  font-size: 1.35rem;
+  color: #0a66c2; /* LinkedIn blue */
+  transition: 0.2s ease-in-out;
+}
+
+.icon-links a:nth-child(2) {
+  color: #00ccbb; /* ResearchGate green */
+}
+
+.icon-links a:hover {
+  transform: scale(1.2);
+  opacity: 0.85;
+}
+
+</style>
