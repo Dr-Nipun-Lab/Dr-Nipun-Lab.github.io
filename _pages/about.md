@@ -2,6 +2,7 @@
 title: "About Us"
 permalink: /about/
 layout: single
+classes: wide
 ---
 
 
@@ -33,3 +34,97 @@ We characterize microbial peptides and proteins circulating in patient plasma to
 
 ### Computational Method Development  
 Our lab develops robust, reproducible computational workflows for multi-omics data processing and analysis. We build pipelines for quality control, normalization, integration, causal inference, module detection, and biomarker prioritization in R and Python. These tools support both internal research and collaborative projects across clinical and computational teams.
+
+---
+
+# ⭐ Achievements
+
+Below are some highlights from our scientific, academic, and clinical research activities.
+
+<div class="achievements-container">
+  <div class="achievements-scroll" id="achievementsScroll">
+    
+    <!-- Add as many items as you want -->
+    <div class="achievement-item">
+      <img src="/assets/images/achievements/award1.jpg" alt="Achievement 1">
+      <p>Best Research Award at EASL 2025</p>
+    </div>
+
+    <div class="achievement-item">
+      <img src="/assets/images/achievements/award2.jpg" alt="Achievement 2">
+      <p>Best Poster and oral presentation at INASL 2025</p>
+    </div>
+
+    <div class="achievement-item">
+      <img src="/assets/images/achievements/award3.jpg" alt="Achievement 3">
+      <p>Best oral presentation at APT 2025</p>
+    </div>
+
+    <!-- Duplicate for smooth infinite scroll -->
+    <div class="achievement-item">
+      <img src="/assets/images/achievements/award1.jpg" alt="Achievement 1">
+      <p>Best Research Award at EASL 2025</p>
+    </div>
+    <div class="achievement-item">
+      <img src="/assets/images/achievements/award2.jpg" alt="Achievement 2">
+      <p>Best Poster and oral presentation at INASL 2025</p>
+    </div>
+
+  </div>
+</div>
+
+---
+<style>
+/* Achievements Panel Styling */
+.achievements-container {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  margin: 20px 0;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  background: #fafafa;
+}
+
+.achievements-scroll {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  animation: scrollLeft 25s linear infinite;
+}
+
+.achievement-item {
+  min-width: 220px;
+  text-align: center;
+}
+
+.achievement-item img {
+  width: 200px;
+  height: 130px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.achievement-item p {
+  font-size: 0.9rem;
+  margin-top: 8px;
+  font-weight: 500;
+}
+
+/* Auto-scroll Animation */
+@keyframes scrollLeft {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+</style>
+
+<script>
+const scrollBox = document.getElementById("achievementsScroll");
+scrollBox.addEventListener("mouseover", () => {
+  scrollBox.style.animationPlayState = "paused";
+});
+scrollBox.addEventListener("mouseout", () => {
+  scrollBox.style.animationPlayState = "running";
+});
+</script>
