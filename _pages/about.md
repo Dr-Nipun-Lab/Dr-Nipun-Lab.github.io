@@ -59,23 +59,23 @@ We build robust, reproducible workflows for quality control, normalization, inte
 
   <div class="ach-item">
     <img src="/assets/images/achievements/award1.jpg">
-    <p>Dr. Parminder received Best poster presentation in young investigator at EASL congress 2025</p>
+    <p>Dr. Parminder Kaur received Best poster presentation in young investigator at EASL congress 2025</p>
   </div>
 
   <div class="ach-item">
     <img src="/assets/images/achievements/award2.jpg">
-    <p>Dr. Nipun (3rd prize plenary session), Dr. Parminder (3rd prize oral presentation) & Pratibha (1st prize Poster presentation) at INASL 2025</p>
+    <p>Dr. Nipun (3rd prize plenary session), Dr. Parminder Kaur (3rd prize oral presentation) & Pratibha Grag (1st prize Poster presentation) at INASL 2025</p>
   </div>
 
   <div class="ach-item">
     <img src="/assets/images/achievements/award3.jpg">
-    <p>Pratibha received 1st prize Oral Presentation at APT 2025</p>
+    <p>Pratibha Garg received 1st prize Oral Presentation at APT 2025</p>
   </div>
 
   <!-- Duplicate for smooth loop -->
   <div class="ach-item">
     <img src="/assets/images/achievements/award1.jpg">
-    <p>Dr. Parminder received Best poster presentation in young investigator at EASL congress 2025</p>
+    <p>Dr. Parminder Kaur received Best poster presentation in young investigator at EASL congress 2025</p>
   </div>
 
 </div>
