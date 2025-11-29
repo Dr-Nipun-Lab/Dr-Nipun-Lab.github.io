@@ -155,4 +155,9 @@ layout: single
 .member-card .icon-links a:nth-child(2) {
   color: #00ccbb; /* ResearchGate green */
 }
+
+.member-card .icon-links a:hover {
+  transform: scale(1.2);
+  opacity: 0.85;
+}
 </style>
