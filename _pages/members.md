@@ -10,6 +10,10 @@ layout: single
 
 <div class="member-grid">
   <div class="member-card">
+    <div class="icon-links">
+      <a href="https://www.linkedin.com/in/nipun-verma-708b31146?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.researchgate.net/profile/Nipun-Verma-2" target="_blank"><i class="fab fa-researchgate"></i></a>
+    </div>
     <img src="/assets/images/members/nipun_verma.jpg" alt="Dr. Nipun Verma" class="member-photo" />
 
    <div class="member-name">Dr. Nipun Verma</div>
@@ -36,7 +40,7 @@ layout: single
   <div class="member-card">
     <div class="icon-links">
       <a href="https://www.linkedin.com/in/pratibha-garg-35060717b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="https://www.researchgate.net/pratibha" target="_blank"><i class="fab fa-researchgate"></i></a>
+      <a href="https://www.researchgate.net/profile/Pratibha-Garg-5" target="_blank"><i class="fab fa-researchgate"></i></a>
     </div>
     <img src="/assets/images/members/pratibha_garg.jpg" class="member-photo" />
     <div class="member-name">Pratibha Garg</div>
@@ -82,8 +86,8 @@ layout: single
 
   <div class="member-card">
     <div class="icon-links">
-      <a href="https://www.linkedin.com/pratibha" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="https://www.researchgate.net/pratibha" target="_blank"><i class="fab fa-researchgate"></i></a>
+      <a href="https://www.linkedin.com/in/rohit-kumar-nadda-216a6a175/?originalSubdomain=in" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.researchgate.net/profile/Rohit-Nadda" target="_blank"><i class="fab fa-researchgate"></i></a>
     </div>
     <img src="/assets/images/members/rohit_nadda.jpg" class="member-photo" />
     <div class="member-name">Dr. Rohit Nadda</div>
