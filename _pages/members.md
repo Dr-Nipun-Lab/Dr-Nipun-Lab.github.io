@@ -137,7 +137,7 @@ layout: single
 <style>
 
 /* Icons */
-.icon-links {
+.member-card .icon-links {
   position: absolute;
   top: 10px;
   right: 12px;
@@ -146,19 +146,13 @@ layout: single
   z-index: 10;
 }
 
-.icon-links a {
+.member-card .icon-links a {
   font-size: 1.35rem;
   color: #0a66c2; /* LinkedIn blue */
   transition: 0.2s ease-in-out;
 }
 
-.icon-links a:nth-child(2) {
+.member-card .icon-links a:nth-child(2) {
   color: #00ccbb; /* ResearchGate green */
 }
-
-.icon-links a:hover {
-  transform: scale(1.2);
-  opacity: 0.85;
-}
-
 </style>
