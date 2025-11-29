@@ -64,7 +64,7 @@ We build robust, reproducible workflows for quality control, normalization, inte
 
   <div class="ach-item">
     <img src="/assets/images/achievements/award2.jpg">
-    <p>Dr. Nipun (3rd prize plenary session), Dr. Parminder Kaur (3rd prize oral presentation) & Pratibha Grag (1st prize Poster presentation) at INASL 2025</p>
+    <p>Dr. Nipun (2nd prize plenary session), Dr. Parminder Kaur (3rd prize oral presentation) & Pratibha Grag (1st prize Poster presentation) at INASL 2025</p>
   </div>
 
   <div class="ach-item">
