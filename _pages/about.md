@@ -10,13 +10,18 @@ classes: wide
 <!-- ⭐ MAIN CONTENT AREA ⭐ -->
 <div class="about-main" markdown="1">
 
-The **Dr. Nipun Lab** is a translational research group focused on decoding the biology of **acute hepatic decompensation, alcohol-associated liver diseases, and acute-on-chronic liver failure (ACLF)** through multi-omics and computational science.
+**Dr. Nipun Lab** is a translational research group focused on decoding the biology of **acute hepatic decompensation, alcohol-associated liver diseases, and acute-on-chronic liver failure (ACLF)** through multi-omics and computational science.
 
-We integrate **clinical proteomics, systems biology, microbial–host interaction profiling, and data-driven modeling** to uncover mechanisms that drive inflammation, immune dysfunction, organ failure, and mortality in critically ill patients.
+**Dr. Nipun Verma** the Principal investigator of lab is a hepatologist and physician-scientist serving as Additional Professor in the Department of Hepatology at PGIMER, Chandigarh. With more than 15 years of clinical and research experience, his work focuses on acute-on-chronic liver failure (ACLF), alcohol-associated liver disease (ALD), infection-related complications in cirrhosis, and the integration of artificial intelligence into clinical decision-making. His research centers on translational hepatology, where he combines clinical data, immunopathology, and multi-omics approaches to understand mechanisms of disease progression and identify actionable biomarkers. Dr. Verma has led and contributed to major multicenter studies and randomized trials, including work on predictive modeling, infection risk stratification, and the role of growth hormone and myokines in liver failure. He is also deeply committed to academic training, developing teaching modules for postgraduate residents and fellows, and advancing responsible AI implementation in medicine through institutional and national collaborations. His contributions extend to telemedicine innovation, clinical guideline development, and advisory roles in hepatology research and AI-driven healthcare initiatives.
 
 ---
 
 ## Our Research Focuses On 
+
+### Clinical Trials in ALD, Alcoholic Hepatitis, and ACLF Trajectories  
+Our lab actively leads and collaborates on clinical trials investigating the natural history, treatment responses, and prognostic trajectories of **alcohol-associated liver disease (ALD)**, **alcoholic hepatitis**, and **acute-on-chronic liver failure (ACLF)**. Through well-characterized patient cohorts and longitudinal sampling, we study disease progression, infection risk, immune dysfunction, and therapeutic outcomes to improve clinical decision-making and early intervention strategies.
+
+---
 
 ### Clinical Proteomics  
 We apply high-resolution mass spectrometry to study circulating host and microbial proteins in patients with acute and chronic liver diseases. Our research aims to identify dynamic protein biomarkers spanning both host and meta-proteomic signals that reflect inflammation, immune dysfunction, organ failure, and mortality risk.
