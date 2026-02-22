@@ -52,9 +52,7 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
       <div class="panel-scroll" id="newsScroll">
 
         <div class="panel-item">Lab website launched</div>
-        <div class="panel-item">New ACLF cohort recruitment started</div>
-        <div class="panel-item">Paper submitted to Hepatology</div>
-        <div class="panel-item">Conference presentation accepted</div>
+        
 
       </div>
     </div>
@@ -65,8 +63,7 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
       <div class="panel-scroll" id="podcastScroll">
 
         <div class="panel-item">Episode 1 — ACLF overview</div>
-        <div class="panel-item">Episode 2 — Microbiome in cirrhosis</div>
-        <div class="panel-item">Episode 3 — AI in hepatology</div>
+        
 
       </div>
     </div>
@@ -91,7 +88,7 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
 
 .home-sidebar{
   flex:1;
-  max-width:300px;
+  max-width:600px;
   display:flex;
   flex-direction:column;
   gap:25px;
