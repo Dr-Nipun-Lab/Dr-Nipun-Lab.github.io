@@ -68,7 +68,9 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
       <h3 class="panel-title">Podcasts</h3>
       <div class="panel-scroll" id="podcastScroll">
 
-        <div class="panel-item">Episode 1 — ACLF overview</div>
+        <div class="panel-item">
+         <a class="pod-link" href="/podcasts/episode-1/">Episode 1 — A-TANGO organ failure score in ACLF</a>
+        </div>
 
       </div>
     </div>
