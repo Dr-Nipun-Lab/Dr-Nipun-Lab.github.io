@@ -51,8 +51,14 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
       <h3 class="panel-title">What's New</h3>
       <div class="panel-scroll" id="newsScroll">
 
-        <div class="panel-item">Lab website launched</div>
-        
+        <div class="panel-item news-row">
+          <a class="news-link" href="https://www.journal-of-hepatology.eu/article/S0168-8278(26)00082-6/abstract" target="_blank">
+            Recent work on ACLF published in JHep
+          </a>
+          <a class="news-social" href="https://x.com/drnipunverma/status/2025200111438233680?s=48&t=jyg9enbavqJSRAsqxCCFHw" target="_blank">
+            <i class="fab fa-x-twitter"></i>
+          </a>
+        </div>
 
       </div>
     </div>
@@ -63,7 +69,6 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
       <div class="panel-scroll" id="podcastScroll">
 
         <div class="panel-item">Episode 1 — ACLF overview</div>
-        
 
       </div>
     </div>
@@ -125,6 +130,37 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
 
 .panel-item:last-child{
   border-bottom:none;
+}
+
+/* NEWS WITH ICON */
+.news-row{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:10px;
+}
+
+.news-link{
+  text-decoration:none;
+  color:#222;
+  flex:1;
+}
+
+.news-link:hover{
+  color:#2a7ae2;
+  text-decoration:underline;
+}
+
+.news-social{
+  color:#000;
+  font-size:1.05rem;
+  opacity:0.75;
+  transition:0.2s;
+}
+
+.news-social:hover{
+  opacity:1;
+  transform:scale(1.15);
 }
 
 </style>
