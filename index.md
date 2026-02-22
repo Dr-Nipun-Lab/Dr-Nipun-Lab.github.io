@@ -88,11 +88,11 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
 }
 
 .home-main{
-  flex:3;
+  flex:2.5;
 }
 
 .home-sidebar{
-  flex:1;
+  flex:1.5;
   max-width:800px;
   display:flex;
   flex-direction:column;
