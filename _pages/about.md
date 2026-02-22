@@ -172,7 +172,7 @@ We build robust, reproducible workflows for quality control, normalization, inte
 .about-sidebar {
   flex: 1;
   max-width: 260px;
-  height: 600px;
+  height: 800px;
   overflow: hidden;
   position: sticky;
   top: 20px;
@@ -197,7 +197,7 @@ We build robust, reproducible workflows for quality control, normalization, inte
   flex-direction: column;
   gap: 20px;
   padding-top: 10px; /* prevents overlap with heading */
-  animation: scrollDown 25s linear infinite;
+  animation: scrollDown 35s linear infinite;
 }
 
 /* Achievement card styling */
