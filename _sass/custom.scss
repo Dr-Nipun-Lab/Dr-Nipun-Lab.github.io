@@ -50,3 +50,12 @@
 .page__content {
   text-align: justify;
 }
+.pod-link{
+  text-decoration:none;
+  color:#222;
+}
+
+.pod-link:hover{
+  color:#2a7ae2;
+  text-decoration:underline;
+}
