@@ -135,7 +135,7 @@ sass:
   sass_dir: _sass
   style: expanded
 
-  collections:
+collections:
   podcasts:
     output: true
     permalink: /podcasts/:name/
