@@ -2,36 +2,45 @@
 layout: splash
 title: "Dr. Nipun Lab"
 permalink: /
+classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/lab_banner.jpg
-excerpt: " Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-Omics • Clinical Proteomics • Bioinformatics • AI/ML"
+excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-Omics • Clinical Proteomics • Bioinformatics • AI/ML"
 ---
 
 # Welcome to Dr. Nipun Lab
 
-We are a translational research group in the **Department of Hepatology at Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh** focused on understanding Alcohol associated liver Diseases (ALD), Acute on chronic liver failure (ACLF) and infections 
-through **Clinical trials, Clinical proteomics, Bioinformatics, Multi-omics, Systems biology, and Cognitive computing**.
-
-**Our primary focus areas include:**
-- Clinical trials in ALD
-- clinical trajectory analysis
-- Clinical prediction modeling
-- Diagnostic and prognostic Biomarker discovery
-- Point of care device development
-- Multiomics (Proteomics, Transcriptomics, Genomics)  
-- Multi-omics integration
-- Host- microbial interaction in cirrhosis
-- Microbial diversity & metaproteomics in liver diseases
-- Molecular and experimental hepatology
-- AI/ML pipelines and workflows
-
-Explore our **Members**, **Research**, **Publications**, and **Tools** using the top menu.
-
 <div class="home-wrapper">
 
+  <!-- LEFT MAIN CONTENT -->
   <div class="home-main">
+
+  <p>
+  We are a translational research group in the <strong>Department of Hepatology at Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh</strong> focused on understanding Alcohol Associated Liver Diseases (ALD), Acute-on-Chronic Liver Failure (ACLF), and infections through <strong>Clinical trials, Clinical proteomics, Bioinformatics, Multi-omics, Systems biology, and AI-driven modeling</strong>.
+  </p>
+
+  <p><strong>Our primary focus areas include:</strong></p>
+
+  <ul>
+    <li>Clinical trials in ALD and ACLF</li>
+    <li>Clinical trajectory analysis</li>
+    <li>Clinical prediction modeling</li>
+    <li>Diagnostic and prognostic biomarker discovery</li>
+    <li>Point-of-care device development</li>
+    <li>Multi-omics (Proteomics, Transcriptomics, Genomics)</li>
+    <li>Multi-omics integration</li>
+    <li>Host–microbial interaction in cirrhosis</li>
+    <li>Microbial diversity & metaproteomics</li>
+    <li>Molecular and experimental hepatology</li>
+    <li>AI/ML pipelines and workflows</li>
+  </ul>
+
+  <p>
+  Explore our <strong>Members</strong>, <strong>Research</strong>, <strong>Publications</strong>, and <strong>Tools</strong> using the top navigation menu.
+  </p>
+
   </div>
 
   <!-- RIGHT SIDEBAR -->
@@ -63,15 +72,17 @@ Explore our **Members**, **Research**, **Publications**, and **Tools** using the
     </div>
 
   </div>
+
 </div>
 
 <style>
 
-/* layout */
+/* Layout */
 .home-wrapper{
   display:flex;
-  gap:30px;
+  gap:40px;
   margin-top:30px;
+  align-items:flex-start;
 }
 
 .home-main{
@@ -80,38 +91,39 @@ Explore our **Members**, **Research**, **Publications**, and **Tools** using the
 
 .home-sidebar{
   flex:1;
-  max-width:280px;
+  max-width:300px;
   display:flex;
   flex-direction:column;
   gap:25px;
 }
 
-/* panels */
+/* Panels */
 .home-panel{
-  border:1px solid #ddd;
+  border:1px solid #e1e1e1;
   border-radius:10px;
-  padding:10px;
+  padding:12px;
   background:#fafafa;
-  height:260px;
+  height:280px;
   overflow:hidden;
+  box-shadow:0 2px 8px rgba(0,0,0,0.05);
 }
 
 .panel-title{
   text-align:center;
-  margin:5px 0 10px 0;
+  margin:5px 0 12px 0;
   font-weight:600;
 }
 
-/* scrolling area */
+/* Scroll Area */
 .panel-scroll{
-  height:210px;
+  height:220px;
   overflow:hidden;
 }
 
 .panel-item{
-  padding:8px 5px;
+  padding:8px 6px;
   border-bottom:1px solid #eee;
-  font-size:0.9rem;
+  font-size:0.92rem;
 }
 
 .panel-item:last-child{
