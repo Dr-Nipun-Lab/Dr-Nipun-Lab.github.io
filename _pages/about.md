@@ -53,7 +53,7 @@ We build robust, reproducible workflows for quality control, normalization, inte
 <!-- ⭐ RIGHT SIDEBAR ACHIEVEMENTS ⭐ -->
 <div class="about-sidebar">
 
-<h3 class="ach-title">Achievements</h3>
+<h3 class="ach-title">Achievements & celebrations</h3>
 
 <div class="achievements-vertical" id="achievementsVertical">
 
