@@ -53,7 +53,7 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
 
         <div class="panel-item news-row">
           <a class="news-link" href="https://www.journal-of-hepatology.eu/article/S0168-8278(26)00082-6/abstract" target="_blank">
-            Recent work on ACLF published in JHep
+            Recent work on ACLF published in Journal of Hepatology
           </a>
           <a class="news-social" href="https://x.com/drnipunverma/status/2025200111438233680?s=48&t=jyg9enbavqJSRAsqxCCFHw" target="_blank">
             <i class="fab fa-x-twitter"></i>
@@ -93,7 +93,7 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
 
 .home-sidebar{
   flex:1;
-  max-width:600px;
+  max-width:800px;
   display:flex;
   flex-direction:column;
   gap:25px;
