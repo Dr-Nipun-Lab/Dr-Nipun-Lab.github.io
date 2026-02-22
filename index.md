@@ -19,8 +19,10 @@ through **Clinical trials, Clinical proteomics, Bioinformatics, Multi-omics, Sys
 - clinical trajectory analysis
 - Clinical prediction modeling
 - Diagnostic and prognostic Biomarker discovery
+- Point of care device development
 - Multiomics (Proteomics, Transcriptomics, Genomics)  
 - Multi-omics integration
+- Host- microbial interaction in cirrhosis
 - Microbial diversity & metaproteomics in liver diseases
 - Molecular and experimental hepatology
 - AI/ML pipelines and workflows
