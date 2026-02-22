@@ -12,17 +12,17 @@ excerpt: " Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-
 # Welcome to Dr. Nipun Lab
 
 We are a translational research group in the **Department of Hepatology at Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh** focused on understanding Alcohol associated liver Diseases (ALD), Acute on chronic liver failure (ACLF) and infections 
-through **Multi-omics, Bioinformatics, Systems biology, Clinical proteomics and Cognitive computing**.
+through **Clinical trials, Clinical proteomics, Bioinformatics, Multi-omics, Systems biology, and Cognitive computing**.
 
 **Our primary focus areas include:**
-
+- Clinical trials in ALD
+- clinical trajectory analysis
+- Clinical prediction modeling
+- Diagnostic and prognostic Biomarker discovery
 - Multiomics (Proteomics, Transcriptomics, Genomics)  
 - Multi-omics integration
-- Trajectory analysis
-- Biomarker discovery pipeline and pathway analysis 
-- Microbial diversity & metaproteomics analysis
+- Microbial diversity & metaproteomics in liver diseases
 - Molecular and experimental hepatology
-- Clinical prediction modeling
-- AI/ML  
+- AI/ML pipelines and workflows
 
 Explore our **Members**, **Research**, **Publications**, and **Tools** using the top menu.
