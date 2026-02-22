@@ -84,7 +84,7 @@ We build robust, reproducible workflows for quality control, normalization, inte
 
   <div class="ach-item">
     <img src="/assets/images/achievements/3.jpg">
-    <p>Dr. Parminder's Birthday celebration 2025 /p>
+    <p>Dr. Parminder's Birthday celebration 2025 </p>
   </div>
 
   <div class="ach-item">
