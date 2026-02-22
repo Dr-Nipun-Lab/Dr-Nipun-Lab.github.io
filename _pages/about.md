@@ -72,6 +72,76 @@ We build robust, reproducible workflows for quality control, normalization, inte
     <p>Pratibha Garg received 1st prize Oral Presentation at APT 2025</p>
   </div>
 
+  <div class="ach-item">
+    <img src="/assets/images/achievements/1.jpg">
+    <p> </p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/2.jpg">
+    <p>Pratibha Garg pressenting at ISGCON</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/3.jpg">
+    <p>Dr. Parminder's Birthday celebration 2025 /p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/4.jpg">
+    <p>Pratibha Garg poster presentation at CCILBS 2023</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/5.jpg">
+    <p> </p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/6.jpg">
+    <p>Party time</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/7.jpg">
+    <p>PGIMER Research Day</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/8.jpg">
+    <p> </p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/9.jpg">
+    <p> </p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/10.jpg">
+    <p> </p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/12.jpg">
+    <p>Photo paglus</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/16.jpg">
+    <p>Dr. Parminder Ph.D viva party </p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/13.jpg">
+    <p>Pratibha Garg received 2nd prize in presidential poster Presentation at BLS 2026</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/15.jpg">
+    <p>Team at Bengal liver summit 2026</p>
+  </div>
+  
   <!-- Duplicate for smooth loop -->
   <div class="ach-item">
     <img src="/assets/images/achievements/award1.jpg">
