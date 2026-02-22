@@ -218,7 +218,7 @@ We build robust, reproducible workflows for quality control, normalization, inte
 /* Vertical auto-scroll animation */
 @keyframes scrollDown {
   from { transform: translateY(0); }
-  to { transform: translateY(-50%); }
+  to { transform: translateY(0%); }
 }
 </style>
 
