@@ -134,3 +134,8 @@ tag_archive:
 sass:
   sass_dir: _sass
   style: expanded
+
+  collections:
+  podcasts:
+    output: true
+    permalink: /podcasts/:name/
