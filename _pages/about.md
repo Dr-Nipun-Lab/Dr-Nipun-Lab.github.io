@@ -57,6 +57,43 @@ We build robust, reproducible workflows for quality control, normalization, inte
 
 <div class="achievements-vertical" id="achievementsVertical">
 
+
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/19.jpg">
+    <p>Recruited patient information stored in CRF booklets</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/20.jpg">
+    <p>Ms. Sonia is working on patient data entry and analysis</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/18.jpg">
+    <p>Dr. Rohit is working on ML/AI predictive modeling </p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/17.jpg">
+    <p>Mr Sahil is working on Web app development and deployment </p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/16.jpg">
+    <p>Dr. Parminder Ph.D viva party </p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/13.jpg">
+    <p>Pratibha Garg received 2nd prize in presidential poster Presentation at BLS 2026</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/15.jpg">
+    <p>Team at Bengal liver summit 2026</p>
+  </div>
+  
   <div class="ach-item">
     <img src="/assets/images/achievements/award1.jpg">
     <p>Dr. Parminder Kaur received Best poster presentation in young investigator at EASL congress 2025</p>
@@ -127,45 +164,14 @@ We build robust, reproducible workflows for quality control, normalization, inte
     <p>Photo paglus</p>
   </div>
 
-  <div class="ach-item">
-    <img src="/assets/images/achievements/16.jpg">
-    <p>Dr. Parminder Ph.D viva party </p>
-  </div>
+  
 
-  <div class="ach-item">
-    <img src="/assets/images/achievements/13.jpg">
-    <p>Pratibha Garg received 2nd prize in presidential poster Presentation at BLS 2026</p>
-  </div>
-
-  <div class="ach-item">
-    <img src="/assets/images/achievements/15.jpg">
-    <p>Team at Bengal liver summit 2026</p>
-  </div>
-
-  <div class="ach-item">
-    <img src="/assets/images/achievements/19.jpg">
-    <p>Recruited patient information stored in CRF booklets</p>
-  </div>
-
-  <div class="ach-item">
-    <img src="/assets/images/achievements/20.jpg">
-    <p>Ms. Sonia is working on patient data entry and analysis</p>
-  </div>
-
-  <div class="ach-item">
-    <img src="/assets/images/achievements/18.jpg">
-    <p>Dr. Rohit is working on ML/AI predictive modeling </p>
-  </div>
-
-  <div class="ach-item">
-    <img src="/assets/images/achievements/17.jpg">
-    <p>Mr Sahil is working on Web app development and deployment </p>
-  </div>
+  
  
   <!-- Duplicate for smooth loop -->
   <div class="ach-item">
-    <img src="/assets/images/achievements/award1.jpg">
-    <p>Dr. Parminder Kaur received Best poster presentation in young investigator at EASL congress 2025</p>
+    <img src="/assets/images/achievements/19.jpg">
+    <p>Recruited patient information stored in CRF booklets</p>
   </div>
 
 </div>
