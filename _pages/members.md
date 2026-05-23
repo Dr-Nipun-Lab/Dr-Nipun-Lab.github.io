@@ -73,25 +73,12 @@ layout: single
 
   <div class="member-card">
     <div class="icon-links">
-      <a href="https://www.linkedin.com/in/parminder-kaur-872441b5/" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="https://www.researchgate.net/profile/Parminder-Kaur-76?ev=hdr_xprf" target="_blank"><i class="fab fa-researchgate"></i></a>
-    </div>
-    <img src="/assets/images/members/parminder_kaur.jpg" class="member-photo" />
-    <div class="member-name">Dr. Parminder Kaur</div>
-    <div class="member-role"><em>Project Research Scientist I</em></div>
-    <div class="member-expertise">
-      Randomized controlled trials, Molecular biology, Immunology.
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="icon-links">
       <a href="https://www.linkedin.com/in/rohit-kumar-nadda-216a6a175/?originalSubdomain=in" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://www.researchgate.net/profile/Rohit-Nadda" target="_blank"><i class="fab fa-researchgate"></i></a>
     </div>
     <img src="/assets/images/members/rohit_nadda.jpg" class="member-photo" />
     <div class="member-name">Dr. Rohit Nadda</div>
-    <div class="member-role"><em>Project Fellow</em></div>
+    <div class="member-role"><em>Project Research Scientist I</em></div>
     <div class="member-expertise">
       Multi-omics, Bioinformatics, Computational biology, Machine learning & AI.
     </div>
@@ -146,6 +133,19 @@ layout: single
 
 <div class="member-grid">
 
+  <div class="member-card">
+    <div class="icon-links">
+      <a href="https://www.linkedin.com/in/parminder-kaur-872441b5/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.researchgate.net/profile/Parminder-Kaur-76?ev=hdr_xprf" target="_blank"><i class="fab fa-researchgate"></i></a>
+    </div>
+    <img src="/assets/images/members/parminder_kaur.jpg" class="member-photo" />
+    <div class="member-name">Dr. Parminder Kaur</div>
+    <div class="member-role"><em>Former Ph.D scholar and Project Research Scientist I</em></div>
+    <div class="member-expertise">
+      Randomized controlled trials, Molecular biology, Immunology.
+    </div>
+  </div>
+  
   <div class="member-card">
     <img src="/assets/images/members/saloni_munjal.jpg" class="member-photo" />
     <div class="member-name">Saloni Munjal</div>
