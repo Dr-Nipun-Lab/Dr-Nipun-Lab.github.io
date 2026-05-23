@@ -63,7 +63,7 @@ layout: single
       <a href="https://www.linkedin.com/in/kumari-priyanka-negi-7108577b/" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://www.researchgate.net/profile/Kumari-Priyanka-9?ev=hdr_xprf" target="_blank"><i class="fab fa-researchgate"></i></a>
     </div>
-    <img src="/assets/images/members/kumari_priyanka.jpg" class="member-photo" />
+    <img src="/assets/images/members/priy.jpg" class="member-photo" />
     <div class="member-name">Dr. Kumari Priyanka</div>
     <div class="member-role"><em>Project Research Scientist II</em></div>
     <div class="member-expertise">
@@ -108,7 +108,7 @@ layout: single
     <div class="icon-links">
       <a href="https://www.linkedin.com/in/sahil-mohd-b50a95269?trk=contact-info" target="_blank"><i class="fab fa-linkedin"></i></a>
     </div>
-    <img src="/assets/images/members/fantom.png" class="member-photo" />
+    <img src="/assets/images/members/sahil.PNG" class="member-photo" />
     <div class="member-name">Sahil Mohammad</div>
     <div class="member-role"><em>Data entry operator</em></div>
     <div class="member-expertise">
