@@ -107,7 +107,6 @@ layout: single
 
   <div class="member-card">
     <div class="icon-links">
-      <a href="https://www.linkedin.com/in/kumari-priyanka-negi-7108577b/" target="_blank"><i class="fab fa-linkedin"></i></a>
       <a href="https://www.researchgate.net/profile/Sonia-Devi-5" target="_blank"><i class="fab fa-researchgate"></i></a>
     </div>
     <img src="/assets/images/members/sonia.jpg" class="member-photo" />
