@@ -141,7 +141,27 @@ We build robust, reproducible workflows for quality control, normalization, inte
     <img src="/assets/images/achievements/15.jpg">
     <p>Team at Bengal liver summit 2026</p>
   </div>
-  
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/19.jpg">
+    <p>Recruited patient information stored in CRF booklets</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/20.jpg">
+    <p>Ms. Sonia is working on patient data entry and analysis</p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/18.jpg">
+    <p>Dr. Rohit is working on ML/AI predictive modeling </p>
+  </div>
+
+  <div class="ach-item">
+    <img src="/assets/images/achievements/17.jpg">
+    <p>Mr Sahil is working on Web app development and deployment </p>
+  </div>
+ 
   <!-- Duplicate for smooth loop -->
   <div class="ach-item">
     <img src="/assets/images/achievements/award1.jpg">
