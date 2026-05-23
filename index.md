@@ -62,7 +62,7 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
 
     <div class="panel-item news-row">
       <a class="news-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/apt.70716" target="_blank">
-        Published: Epidemiology, Predictors of Antimicrobial Resistance and Empiric Treatment Strategies for Spontaneous Bacterial Peritonitis in Cirrhosis
+        Published: Antimicrobial Resistance and Empiric Therapy Strategies for SBP in Cirrhosis
       </a>
     </div>
 
