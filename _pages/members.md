@@ -101,6 +101,48 @@ layout: single
 
 ---
 
+## Technical support 
+
+<div class="member-grid">
+
+  <div class="member-card">
+    <div class="icon-links">
+      <a href="https://www.linkedin.com/in/kumari-priyanka-negi-7108577b/" target="_blank"><i class="fab fa-linkedin"></i></a>
+      <a href="https://www.researchgate.net/profile/Sonia-Devi-5" target="_blank"><i class="fab fa-researchgate"></i></a>
+    </div>
+    <img src="/assets/images/members/sonia.jpg" class="member-photo" />
+    <div class="member-name">Ms Sonia Devi</div>
+    <div class="member-role"><em>Project Technical Support III</em></div>
+    <div class="member-expertise">
+      Molecular biology, Immunology, Clinical data analysis.
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="icon-links">
+      <a href="https://www.linkedin.com/in/sahil-mohd-b50a95269?trk=contact-info" target="_blank"><i class="fab fa-linkedin"></i></a>
+    </div>
+    <img src="/assets/images/members/fantom.png" class="member-photo" />
+    <div class="member-name">Mr. Sahil Mohammad</div>
+    <div class="member-role"><em>Data entry opertaor</em></div>
+    <div class="member-expertise">
+      Python developer, Clinical data entry, web app development and deployment, automation.
+    </div>
+  </div>
+
+  <div class="member-card">
+    <img src="/assets/images/members/fantom.png" class="member-photo" />
+    <div class="member-name">Mr. Rudraksh Chanaliya</div>
+    <div class="member-role"><em>Junior lab technician</em></div>
+    <div class="member-expertise">
+      Clinical sample collection, patient recruitment, sample extraction, and neutrophil isolation.
+    </div>
+  </div>
+
+</div>
+
+---
+
 # Ex-Lab Members
 
 <div class="member-grid">
