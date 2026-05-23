@@ -47,21 +47,33 @@ excerpt: "Alcohol-Driven Hepatic Injury Spectrum • Systems Biology • Multi-O
   <div class="home-sidebar">
 
     <!-- WHAT'S NEW -->
-    <div class="home-panel">
-      <h3 class="panel-title">What's New</h3>
-      <div class="panel-scroll" id="newsScroll">
+<div class="home-panel">
+  <h3 class="panel-title">What's New</h3>
+  <div class="panel-scroll" id="newsScroll">
 
-        <div class="panel-item news-row">
-          <a class="news-link" href="https://www.journal-of-hepatology.eu/article/S0168-8278(26)00082-6/abstract" target="_blank">
-            Recent work on ACLF published in Journal of Hepatology
-          </a>
-          <a class="news-social" href="https://x.com/drnipunverma/status/2025200111438233680?s=48&t=jyg9enbavqJSRAsqxCCFHw" target="_blank">
-            <i class="fab fa-x-twitter"></i>
-          </a>
-        </div>
-
-      </div>
+    <div class="panel-item news-row">
+      <a class="news-link" href="https://www.journal-of-hepatology.eu/article/S0168-8278(26)00082-6/abstract" target="_blank">
+        Recent work on ACLF published in Journal of Hepatology
+      </a>
+      <a class="news-social" href="https://x.com/drnipunverma/status/2025200111438233680?s=48&t=jyg9enbavqJSRAsqxCCFHw" target="_blank">
+        <i class="fab fa-x-twitter"></i>
+      </a>
     </div>
+
+    <div class="panel-item news-row">
+      <a class="news-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/apt.70716" target="_blank">
+        Published: Epidemiology, Predictors of Antimicrobial Resistance and Empiric Treatment Strategies for Spontaneous Bacterial Peritonitis in Cirrhosis
+      </a>
+    </div>
+
+    <div class="panel-item news-row">
+      <a class="news-link" href="https://nipunlab.netlify.app/" target="_blank">
+        Developed clinically oriented risk calculators in cirrhosis
+      </a>
+    </div>
+
+  </div>
+</div>
 
     <!-- PODCASTS -->
     <div class="home-panel">
