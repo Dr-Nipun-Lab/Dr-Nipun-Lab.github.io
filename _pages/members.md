@@ -110,7 +110,7 @@ layout: single
     </div>
     <img src="/assets/images/members/fantom.png" class="member-photo" />
     <div class="member-name">Mr. Sahil Mohammad</div>
-    <div class="member-role"><em>Data entry opertaor</em></div>
+    <div class="member-role"><em>Data entry operator</em></div>
     <div class="member-expertise">
       Python developer, Clinical data entry, web app development and deployment, automation.
     </div>
