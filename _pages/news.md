@@ -5,4 +5,10 @@ layout: single
 ---
 
 ### Lab News & Updates
-We will post updates, achievements and openings here.
+
+#### Developed Risk Calculators for Cirrhosis
+We developed clinically oriented risk calculators to support prognostication and decision-making in liver disease management.
+
+🔗 [Explore the Calculators](https://nipunlab.netlify.app/)
+
+---
