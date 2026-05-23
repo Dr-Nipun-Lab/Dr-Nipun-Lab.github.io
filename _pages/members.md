@@ -44,7 +44,7 @@ layout: single
     </div>
     <img src="/assets/images/members/pratibha_garg.jpg" class="member-photo" />
     <div class="member-name">Pratibha Garg</div>
-    <div class="member-role"><em>Project Research Scientist I</em></div>
+    <div class="member-role"><em>Project Research Scientist II</em></div>
     <div class="member-expertise">
       Clinical proteomics, Biomarker discovery, Biostatistics, Molecular biology, Immunology.
     </div>
